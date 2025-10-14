@@ -1,10 +1,19 @@
-#Branches 챕터
+# Branches 챕터
 
-#1. Moving through time
+## 1. Moving through time
 
-1. 마지막 커밋 위치에 체크아웃 카드 이동
-2. piggy_bank 파일 수정
-3. little_sister 파일 수정
-4. 파일 내용 변경 후 commit 카드 이동
-5. 커밋 내용 저장
+### 1. 마지막 커밋 위치에서 체크아웃 , git checkout 457db0cc
 
+### 2. piggy_bank 파일 수정, echo "This piggy bank belongs to the big sister.It contains 10 coins." > piggy_bank
+
+### 3. little_sister 파일 수정, echo "A young girl with brown, curly hair." > little_sister
+
+### 4. 변경 내용 커밋, git commit -am "commit"
+
+## 2. Make parallel commits
+
+### 1.The child climbs somewhere 위치에서 체크아웃, git checkout 3fc029
+
+### 2. cage/lion 파일 수정, echo "Looks happy. :) " > cage/lion
+
+### 3. 변경 내용 커밋, git commit -am "commit"
