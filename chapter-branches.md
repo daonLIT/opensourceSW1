@@ -39,3 +39,12 @@
 3. 콘서트 위치로 이동, git checkout concert
 
 4. you 파일 수정 후 커밋, git add . git commit -m "concert commit"
+
+### 5. Deleting branches
+
+1. friend 브랜치 삭제, git branch -D friend
+
+2. ice-cream 브랜치 삭제, git branch -D ice-cream
+
+3. music 브랜치 삭제, git branch -D music
+
