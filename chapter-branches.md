@@ -48,3 +48,16 @@
 
 3. music 브랜치 삭제, git branch -D music
 
+### 6. Moving branches around
+
+1. coffee 브랜치로 이동, git checkout coffee
+
+2. coffee 브랜치를 "You drink the coffee" 커밋으로 이동, git reset --hard
+
+3. baguette 브랜치로 이동, git checkout baguette
+
+4. baguette 브랜치를 "You eat the baguette" 커밋으로 이동, git reset --hard
+
+5. donut 브랜치로 이동, git checkout donut
+
+6. you 파일 수정 후 커밋, git add . git commit -m"commit"
