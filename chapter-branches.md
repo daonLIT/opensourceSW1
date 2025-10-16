@@ -29,3 +29,10 @@
 3.  생일파티 위치로 이동, git checkout
 
 4.  생일파티 브랜치 생성, git branch birthday
+
+### 4. Branches grows with you!
+
+1. 생일파티 위치로 이동, git checkout 2080ea22
+2. you 파일 수정 후 커밋, git add . git commit -m "birthday commit"
+3. 콘서트 위치로 이동, git checkout concert
+4. you 파일 수정 후 커밋, git add . git commit -m "concert commit"
