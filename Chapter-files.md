@@ -1,9 +1,11 @@
-# Chapter-files
+# Git & Github 게임 답안지
 
-## 1. Unexpected Roommates
+## Files
 
-### rm \*web (\_web으로 되어있는 파일들 지우기)
+### 1. Unexpected Roommates
 
-## 2. Interior design
+**rm \*web (\_web으로 되어있는 파일들 지우기)**
 
-### touch bed2, touch bed3 (침대 두개 추가 후 안에 bed파일 내용과 똑같이 적기)
+### 2. Interior design
+
+**touch bed2, touch bed3 (침대 두개 추가 후 안에 bed파일 내용과 똑같이 적기)**
