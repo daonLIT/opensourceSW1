@@ -17,3 +17,13 @@
 ### 2. cage/lion 파일 수정, echo "Looks happy. :) " > cage/lion
 
 ### 3. 변경 내용 커밋, git commit -am "commit"
+
+## 3. Creating branches
+
+### 1. 콘서트 위치로 이동, git checkout
+
+### 2. 콘서트 브랜치 생성, git branch concert
+
+### 3. 생일파티 위치로 이동, git checkout
+
+### 4. 생일파티 브랜치 생성, git branch birthday
